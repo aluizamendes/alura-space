@@ -1,0 +1,19 @@
+@import "../../styles/variaveis";
+
+@import "../../styles/variaveis";
+
+.social_icons {
+    display: flex;
+    align-items: center;
+    gap: 16px;    
+
+    img {
+        cursor: pointer;
+    }
+}
+
+.creditos {
+    font-family: $fonte-normal;
+    color: #FFF;
+}
+
