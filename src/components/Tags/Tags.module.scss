@@ -15,10 +15,9 @@
 
   &__lista {
     list-style: none;
-    width: 380px;
     padding: 0;
     display: flex;
-    justify-content: space-between;
+    gap: 16px;
 
     li {
       background-color: $tag-color;

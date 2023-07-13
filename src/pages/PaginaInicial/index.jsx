@@ -4,6 +4,7 @@ import Galeria from "../../components/Galeria";
 import Menu from "../../components/Menu";
 import Populares from "../../components/Populares";
 import Rodape from "../../components/Rodape";
+
 import styles from "./PaginaInicial.module.scss"
 
 export default function PaginaInicial() {
